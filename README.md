@@ -65,26 +65,23 @@ The dashboard includes the following key business metrics:
 
 ## Dashboard Analysis
 
-### Sales Performance
+### Executive Sales Overview
 
-* Analysis of total sales and profit
-* Monthly and yearly sales trends
-* Sales performance by category and region
-* Identification of high-performing and underperforming areas
+This dashboard provides an executive-level view of overall sales performance, revenue, profit, and key business KPIs.
 
-### Customer Analysis
+![Executive Sales Overview](screenshots/Executive%20Sales%20Overview%20ss%20.png)
 
-* Customer count and purchasing behavior
-* Customer contribution to sales
-* Analysis of customer segments
-* Identification of high-value customers
+### Customer Analytics
 
-### Product Analysis
+This dashboard analyzes customer behavior, customer contribution, and purchasing patterns to identify valuable customer segments.
 
-* Product and category performance
-* Top-performing products
-* Revenue contribution by product
-* Profitability analysis by product and category
+![Customer Analytics](screenshots/Customer%20Analytics%20ss.png)
+
+### Product & Profitability Analysis
+
+This dashboard evaluates product and category performance, revenue contribution, and profitability to identify high-performing and underperforming products.
+
+![Product & Profitability Analysis](screenshots/Product%20%26%20Profitability%20Analysis%20ss.png)
 
 ## Business Insights
 
