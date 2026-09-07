@@ -118,6 +118,8 @@ The model enables analysis across:
 * Products
 * Dates
 
+![Power BI Data Model](Data_Model/Data_Model.png)  
+
 ## DAX Measures
 
 DAX was used to create business measures and KPIs, including:
