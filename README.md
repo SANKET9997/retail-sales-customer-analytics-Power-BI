@@ -126,7 +126,7 @@ before being loaded into Power BI for data modeling and analysis.
 
 ### Customer Analysis Dashboard
 
-![Customer Analysis Dashboard](screenshots/customer-dashboard.png)
+![Customer Analysis Dashboard](screenshots/Customer Analytics ss.png)
 
 ### Product Analysis Dashboard
 
